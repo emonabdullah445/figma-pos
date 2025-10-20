@@ -151,7 +151,7 @@ const SalesDashboard = () => {
       </div>
 
       <div className="flex  mt-20 gap-4 justify-between">
-        <div className="w-[850px] ">
+        <div className="w-[757px] ">
           <div className="border-t">
             <div className="h-[75px] bg-[#2D2A2A] flex items-center justify-between">
               <div className="p-2 flex flex-col ">
