@@ -1,6 +1,6 @@
 import { FaSearch } from "react-icons/fa";
 const AddStock = () => {
-  // Mock data for tables
+  
   const products = [
     { id: 1, desc: "Product A", company: "Company X", mrp: "$500" },
     { id: 2, desc: "Product B", company: "Company Y", mrp: "$300" },
@@ -280,7 +280,7 @@ const AddStock = () => {
             </div>
           </div>
 
-          {/* ADD STOCK Button */}
+          
         </div>
       </div>
     </div>
